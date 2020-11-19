@@ -1,14 +1,14 @@
 # List of Algorithms and Data Structures  
-### Seperated by language and type of problem  
+## Seperated by language and type of problem  
 
-####Algos  
+###Algos  
 bucket_sort/
 count_sort/
 heap_sort/
 merge_sort/
 quick_sort/
 
-####Data Structures   
+###Data Structures   
 binary_search_tree/
 binary_tree/
 dictionary/
